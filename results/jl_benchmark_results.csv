@@ -1,0 +1,7 @@
+k (dim),Storage Ratio,Search Speedup,Top-10 Recall,"Above JL Bound? (eps=0.3, n=5,000)"
+64,1.56%,11.21x,47.0%,No (bound=947)
+128,3.12%,9.98x,61.5%,No (bound=947)
+256,6.25%,7.91x,64.0%,No (bound=947)
+512,12.50%,5.27x,74.0%,No (bound=947)
+1024,25.00%,3.39x,81.5%,Yes
+2048,50.00%,1.88x,87.0%,Yes
